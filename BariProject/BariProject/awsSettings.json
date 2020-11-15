@@ -1,0 +1,8 @@
+{
+  "AWSSQSConfig": {
+    "queueUrl": "https://sqs.us-east-2.amazonaws.com/966680366158/bariProject.fifo",
+    "awsAccessKeyId": "AKIA6CEVDZRHODZTVHM6",
+    "awsSecretAccessKey": "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",
+    "endpoint": "us-east-2"
+  }
+}

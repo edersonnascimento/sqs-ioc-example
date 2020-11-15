@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BariProject": {
+      "commandName": "Project",
+      "commandLineArgs": "--send --receive"
+    }
+  }
+}
